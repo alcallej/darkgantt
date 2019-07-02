@@ -1,0 +1,19 @@
+{
+    "name": "alcallej/darkgantt",
+    "description": "A very simple Gantt chart",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "alcallej",
+            "email": "alexanderbeer89@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    },
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
