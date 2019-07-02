@@ -5,10 +5,10 @@ require_once 'vendor/autoload.php';
 use Dark\Dummy\Gantt\Gantt;
 
 $dates = array(
-    array('start' => '2018-10-08', 'end' => '2021-10-24', 'label' => 'Periodo de Trabajo de graduaciòn', 'costt' => '500.00'),
-    array('start' => '2018-10-09', 'end' => '2018-12-25', 'label' => 'Ante-Proyecto', 'costt' => '3500.00'),
-    array('start' => '2018-12-25', 'end' => '2019-06-12', 'label' => 'Desarrollo', 'costt' => '1500.00'),
-    array('start' => '2019-06-12', 'end' => '2019-10-25', 'label' => 'Implementación', 'costt' => '3500.00')
+    array('start' => '2018-10-08', 'end' => '2021-10-24', 'label' => 'Activity period'),
+    array('start' => '2018-10-09', 'end' => '2018-12-25', 'label' => 'Activity 2'),
+    array('start' => '2018-12-25', 'end' => '2019-06-12', 'label' => 'Activity 3'),
+    array('start' => '2019-06-12', 'end' => '2019-10-25', 'label' => 'Activity 4')
 );
 
 
