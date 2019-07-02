@@ -31,3 +31,7 @@ echo "</body>
 </html>";
 
 ```
+
+# screenshot
+
+![Gantt Chart](/images/gantt.png)
